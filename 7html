@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport"  content="width=device-width, initial-scale=1.0">
+	<title>Record FM Gabon 107.9</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<nav>
+	<h1>Record FM Gabon 107.9</h1>
+	<div class="onglets">
+		<a href="">Aceuil</a>
+		<a href="#services">Nos services</a>
+		<a href="#Contact">Contacts</a>
+   </div>	
+</nav>
+<header>
+	<h1>Record FM Gabon 107.9</h1>	
+	<h4>La radio qui touche vos coeurs!</h4>
+	<button>Parcourir</button>
+   </header>
+
+ <section class="main" id="services">
+ <div class="content">
+ 
+<div class="card">
+   <div class="left">	
+<h1>Artistes de la semaine</h1>
+<p> Beyoncé et Jay-Z, les diamants noirs de Tiffany.Soixante ans après Audrey Hepburn, le joaillier de luxe a choisi le couple de stars comme égéries. Objectif : conquérir une clientèle plus jeune, plus internationale, différente de sa cible blanche traditionnelle.</p>
+</div>
+
+<div class="right">
+   <img src="https://www.jeuneafrique.com/medias/2021/09/28/jad20210928-tribune-parti-pris-diamants-tiffany-2-592x296-1632843199.jpg">
+   </div>	
+</div>	
+ 	
+<div class="card">
+
+<div class="left">
+ <h1>Propositions</h1>
+ <p>Record fm 107.9 votre nouvelle plate forme de communication. Dans le cas de notre professionalisme, nous vous offrons plusieurs services tels que :
+
+- conception de spots audios visuels, avec des professionnels africains et européens.
+- publi-reportage
+- reportage video( mariage, anniversaire, conférence …)
+
+Nous vous offrons un service de qualité à des prix selon votre budget. Contacte nous, présentez nous vos idées, vos produits ou services et nous nous chargerons du reste</p>
+</div>	
+
+    <div class="right">	
+    <img src="https://images.pexels.com/photos/1081685/pexels-photo-1081685.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">	
+    </div>
+ </div>		
+ 
+ </div>	
+
+ </section>
+ <footer>
+ 	<h1>Nos services</h1>
+ 	<div class="Nos services">
+ 		<div class="service">
+ 			<h3>Conception de spots</h3>
+ 			<p>Nous vous proposons la conception de spots audios visuels, avec des professionnels d’afrique.
+ Publi-reportage et reportage video( mariage, anniversaire, conférence …)
+Nous vous offrons un service de qualité à des prix selon votre budget. Contacte nous, présentez nous vos idées, vos produits ou services et nous nous chargerons du reste.
+</p></div>
+ 		<div class="service">
+ 			<h3>Conception de spots</h3>
+ 			<p>Nous vous proposons la conception de spots audios visuels, avec des professionnels d’afrique.
+ Publi-reportage et reportage video( mariage, anniversaire, conférence …)
+Nous vous offrons un service de qualité à des prix selon votre budget. Contacte nous, présentez nous vos idées, vos produits ou services et nous nous chargerons du reste.
+</p></div>
+ 		<div class="service">
+ 			<h3>Conception de spots</h3>
+ 			<p>Nous vous proposons la conception de spots audios visuels, avec des professionnels d’afrique.
+ Publi-reportage et reportage video( mariage, anniversaire, conférence …)
+Nous vous offrons un service de qualité à des prix selon votre budget. Contacte nous, présentez nous vos idées, vos produits ou services et nous nous chargerons du reste.
+</p></div>
+ 	
+ 	
+ 	
+ </div>
+ <p id="Contact">contact : 066 38 47 68 </p>
+ </footer>
+
+
+</body>
+</htlm>
